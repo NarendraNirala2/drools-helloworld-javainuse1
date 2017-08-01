@@ -15,6 +15,7 @@ import com.java.model.Product;
 
 public class DroolTest {
 
+	//Git commit test
 	public static void main(String[] args) throws DroolsParserException,
 			IOException {
 		DroolTest droolsTest = new DroolTest();
